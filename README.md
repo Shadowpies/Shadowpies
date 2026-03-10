@@ -5,7 +5,7 @@
 ### En student indenfor Data- og kommunikation, som søger efter 
 
 - 🌱 I’m currently learning **[Docker](https://www.docker.com/)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{Shadowpies}/{Shadowpies}/issues)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/Shadowpies/Shadowpies/issues)**
 - 🔭 I’m currently working on **Task mananger, Docker DevOps Dashboard and Chat app**
 
 <br>
