@@ -4,7 +4,7 @@
 
 ### En student indenfor Data- og kommunikation, som søger efter 
 
-- 🌱 I’m currently learning **[MicroPython]((https://python.microbit.org/v/3))**
+- 🌱 I’m currently learning **[MicroPython](https://python.microbit.org/v/3)**
 - 💬 Ask me about **Python, JS, React...or anything [here](https://github.com/Shadowpies/Shadowpies/issues)**
 - 🔭 I’m currently working on **Multiplayer Battle ships on mircobits**
 
