@@ -4,7 +4,7 @@
 
 ### En student indenfor Data- og kommunikation, som søger efter 
 
-- 🌱 I’m currently learning **[Web-hosting]()**
+- 🌱 I’m currently learning **[Web-hosting](https://ngrok.com/)**
 - 💬 Ask me about **Python, JS, React...or anything [here](https://github.com/Shadowpies/Shadowpies/issues)**
 - 🔭 I’m currently working on **Multiplayer Battle ships on mircobits**
 
