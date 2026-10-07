@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=C72A0C&duration=4000&lines=Hej!+👋;+Jeg+er+Marcus!;Jeg+uddanner+mig+som+datatekniker;med; speciale;i;programmering;og;jeg+sørger+efter+læreplads;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=900&height=70&color=C72A0C&duration=4000&lines=Hej!+👋;+Jeg+er+Marcus!;Jeg+uddanner+mig+som+datatekniker+med+ speciale+i+programmering;og;jeg+sørger+efter+læreplads;" />
 </h1>
 
 ### En student indenfor Data- og kommunikation, som søger efter 
